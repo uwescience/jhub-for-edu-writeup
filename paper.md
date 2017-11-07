@@ -27,8 +27,22 @@ Note: this is a working draft of what we’ll discuss at the MSDSE summit, pleas
 
 ## A few example deployments of varying kinds
   - Small-scale, short-term (NeuroHackWeek)
-      Go over the bits and pieces
+      40 participants from all over, some with little computing experience
+      5 days
+      Complex software/data dependencies
+      Participants work on their own laptops
+      Past experience tells us that getting everything going would take hours, and that we might expect a non-zero rate of failure
+      Installed many dependencies and data (“the kitchen sink” = 25 GB image)
+      Whitelist users by Github user name
+      Resources scaled up and down *manually*
+
   - Large-scale / long-term (data 8)
+      1,000+ undergraduate students
+      Zero background in computing assumed
+      Persistent computational resources (semester-long!)
+      DataHub available to anyone with Berkeley credentials
+      Bespoke autoscaling implemented
+
   - Small-scale / long-term (connector courses & modules)
 
 ## Open questions
