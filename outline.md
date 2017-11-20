@@ -139,6 +139,7 @@ alternatives.
 - NEED: More composable / swappable environment images (e.g., R and Python)
 - NEED: Academic-facing computational resources for teaching
 - NEED: Technology to facilitate data transfer and access for students
+- NEED: Autoscaling and more cost-effective tech in general
 
 ### Community improvements
 - NEED: Shared content for common course material (e.g. Chris Hensch + data science modules)
